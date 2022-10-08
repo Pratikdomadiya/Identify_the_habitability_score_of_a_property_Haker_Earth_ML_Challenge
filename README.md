@@ -40,3 +40,6 @@ Air_Quality_Index	 : Represents the Air Quality Index of the neighborhood
 Neighborhood_Review	 : Represents the average ratings given to the neighborhood by the people 
 
 Habitability_score	 : Represents the habitability score of the property
+
+![image](https://user-images.githubusercontent.com/48595606/194714090-b86940a0-373c-4b8b-ab16-bc596344662b.png)
+
